@@ -1,0 +1,7 @@
+# Initial declaration of a variable
+x = 10000
+print("Initial value of x:", x)
+
+# Re-declaration of the same variable
+x = 50000
+print("Re-declared value of x:", x)
